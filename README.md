@@ -1,4 +1,4 @@
-<p align="center">I solve big challenges using technology. <br><br> I have experience with Front-end, I had contact with Back-end with the languages ​​Java, Python and C, currently learning React Native<strong>passionate about discovering new things</strong> and using them to create high quality solutions. Today I'm an <strong>entry-level Front-end developer</strong> focused on web and mobile development.</p>&nbsp;
+<p align="center">I solve big challenges using technology. <br><br> I have experience with Front-end, I had contact with Back-end with the languages ​​Java, Python and C, currently learning React Native <strong>passionate about discovering new things</strong> and using them to create high quality solutions. Today I'm an <strong>entry-level Front-end developer</strong> focused on web and mobile development.</p>&nbsp;
 
  &nbsp;
  &nbsp;
