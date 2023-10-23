@@ -1,6 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Taiwan2003/Taiwan2003/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">I solve big challenges using technology. <br><br> I have experience with Front-end, I had contact with Back-end with the languages ​​Java, Python and C, currently learning React Native<strong>passionate about discovering new things</strong> and using them to create high quality solutions. Today I'm an <strong>entry-level Front-end developer</strong> focused on web and mobile development.</p>&nbsp;
 
  &nbsp;
