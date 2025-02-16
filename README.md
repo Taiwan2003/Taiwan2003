@@ -1,4 +1,4 @@
-<p align="center">I solve big challenges using technology. <br><br> I have experience with Front-end, I had contact with Back-end with the languages ​​Java, Python and C, currently learning React Native <strong>passionate about discovering new things</strong> and using them to create high quality solutions. Today I'm an <strong>entry-level Front-end developer</strong> focused on web and mobile development.</p>&nbsp;
+<p align="center"><br><br>Meu nome é Thaiuã Humberto França de Oliveira, estudante de Ciência da Computação na UERJ e apaixonado por programação desde 2021. Tenho experiência em Node, Express, MySql, JavaScript e React js, e atualmente estou focado em aprender React Js procuro contribuir com projetos inovadores aliando conhecimentos teóricos com projetos práticos. Meu objetivo é crescer continuamente na área de computação e criar soluções impactantes através da minha paixão por tecnologia.<strong>entry-level Front-end developer</p>&nbsp;
 
  &nbsp;
  &nbsp;
