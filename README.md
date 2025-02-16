@@ -1,4 +1,4 @@
-<p align="center"><br><br>Meu nome é Thaiuã Humberto França de Oliveira, estudante de Ciência da Computação na UERJ e apaixonado por programação desde 2021. Tenho experiência em Node, Express, MySql, JavaScript e React js, e atualmente estou focado em aprender React Js procuro contribuir com projetos inovadores aliando conhecimentos teóricos com projetos práticos. Meu objetivo é crescer continuamente na área de computação e criar soluções impactantes através da minha paixão por tecnologia.<strong>entry-level Front-end developer</p>&nbsp;
+<p align="center"><br><br>Meu nome é Thaiuã Humberto França de Oliveira, estudante de Ciência da Computação na UERJ e apaixonado por programação desde 2021. Tenho experiência em Node, Express, MySql, JavaScript e React js, e atualmente estou focado em aprender Typescript procuro contribuir com projetos inovadores aliando conhecimentos teóricos com projetos práticos. Meu objetivo é crescer continuamente na área de computação e criar soluções impactantes através da minha paixão por tecnologia.<strong>entry-level Front-end developer</p>&nbsp;
 
  &nbsp;
  &nbsp;
